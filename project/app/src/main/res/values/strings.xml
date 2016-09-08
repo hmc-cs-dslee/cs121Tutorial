@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"hw0FirstAndroid "</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">A Name</string>
+</resources>
